@@ -1,2 +1,2 @@
 # C-programs
-This file shows the program pf c++
+This file shows the programs of c+
